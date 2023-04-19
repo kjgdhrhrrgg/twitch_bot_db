@@ -1,2 +1,3 @@
-# twitch_bot_db
-Database to assign twitch account to lounge username
+# Database for twitch_bot
+Database to assign twitch account to lounge username.
+Format: [twitch_username:mkcID]
